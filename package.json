@@ -1,0 +1,21 @@
+{
+  "name": "nodejsspider",
+  "version": "1.0.0",
+  "description": "nodejs spider",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FIGHTING-TOP/nodejsSpider.git"
+  },
+  "author": "mingwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FIGHTING-TOP/lagouSpider/issues"
+  },
+  "homepage": "https://github.com/FIGHTING-TOP/lagouSpider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
